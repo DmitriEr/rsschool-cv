@@ -1,6 +1,6 @@
 # Junior Developer Resume
 
-![Photo](CV.jpg)
+![Photo](CV.jpg){width=50%}
 
 1. Dmitrii Erkin
 2. Phone number: *+7 (937) 170 77 04*, email: *tomountain@mail.ru*
